@@ -6,7 +6,7 @@ This tool tracks and compares the performance of:
 - Bitcoin
 - Ethereum
 
-View the live chart at: https://[your-github-username].github.io/[repository-name]
+View the live chart at: https://reeserj.github.io/markettracker
 
 ## Local Development
 1. Install requirements: 
